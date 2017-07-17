@@ -1,5 +1,5 @@
 {
-  "name": "react-native-svg-uri",
+  "name": "react-native-svg-uri-n",
   "version": "1.1.2",
   "description": "Render an SVG Image from an URL",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "uri",
     "http"
   ],
-  "author": "Matias Cortes",
+  "author": "Nghia Nguyen",
   "license": "ISC",
   "dependencies": {
     "xmldom": "^0.1.22"
